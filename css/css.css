@@ -1,1 +1,9 @@
-/* No CSS *//*# sourceMappingURL=css.css.map */
+body {
+  background-color: grey;
+  color: black;
+}
+
+.title {
+  color: white;
+}
+/*# sourceMappingURL=css.css.map */
